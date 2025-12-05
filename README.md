@@ -7,46 +7,67 @@ Atualmente, venho explorando soluções baseadas em IA, conectores MCP, orquestr
 ---
 
 ### 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Python, SQL  
-- **Backend:** FastAPI, Flask  
-- **Bancos de Dados:** PostgreSQL, MySQL, SQLite, MongoDB  
-- **Automação:** N8N, FASTMCP, Webhooks  
-- **Cloud & Infra:** Docker, Render, Railway  
-- **Integrações:** SAP, Power BI, EvolutionAPI  
-- **Outros:** Git, RESTful APIs, Clean Code
+<div align="left">
+  
+**Linguagens:**  
+Python, SQL  
+
+**Backend:**  
+FastAPI, Flask  
+
+**Bancos de Dados:**  
+PostgreSQL, MySQL, SQLite  
+
+**Automação:**  
+N8N, FASTMCP, Webhooks  
+
+**Cloud & Infra:**  
+Docker, Render, Railway  
+
+**Integrações:**  
+SAP, Power BI, EvolutionAPI  
+
+</div>
 
 ---
 
-### 📌 O que estou desenvolvendo atualmente
-- Sistema próprio de gerenciamento financeiro com FastAPI + PostgreSQL  
-- Agente de IA integrado via MCP e N8N  
-- Automação via WhatsApp para registrar compras, consultar faturas e gerenciar pagamentos
-- Solução para produção, transferencia de estoque, e rastreabilidade de produção de ponta a ponta
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pontes22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pontes22&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
-### 🌱 Estou aprendendo
-- Arquiteturas orientadas a eventos  
-- Mensageria (RabbitMQ/Kafka)  
-- Boas práticas de escalabilidade backend  
+### 🔥 Streak Stats
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Joao-Pontes22&theme=tokyonight" />
+</div>
 
 ---
 
-### 💬 Sobre mim
-Apaixonado por tecnologia, engenharia e soluções que facilitam a vida real. Sempre buscando aprender, refatorar e evoluir — tanto o código quanto a mim mesmo.  
+### 🎯 Sobre mim
+Apaixonado por tecnologia, engenharia e soluções que facilitam a vida real. Sempre buscando aprender, refatorar e evoluir — tanto o código quanto a mim mesmo.
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 - **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-oliveira-071415232/
-- **E-mail:** joao13789@gmail.com  
-- **GitHub:** você já está aqui 😉  
+- **Email:** joao13789@gmail.com
 
 ---
 
-### ⚡ Curiosidade
-Já trabalhei com engenharia de qualidade no setor automotivo, aplicando metodologias como 8D, FSP e Ishikawa — experiências que hoje agregam muito à minha visão analítica no desenvolvimento de software.
+<div align="center">
+  
+### ⚡ Tecnologias que uso no dia a dia
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/N8N-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</div>
 
 ---
 
 ⭐ *Se gostou do meu perfil, fique à vontade para explorar meus repositórios e conectar comigo!*
+
